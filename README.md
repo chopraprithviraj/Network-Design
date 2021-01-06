@@ -2,6 +2,8 @@
 
 <img src="src/gbc_logo.png" width="250">
 
+<h4>Winter 2020</h4>
+
 ## Desktop Operating System COMP 3105
 
 <p align="center">
