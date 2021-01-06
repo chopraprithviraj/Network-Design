@@ -4,7 +4,7 @@
 
 <h4>Winter 2020</h4>
 
-## Desktop Operating System COMP 3105
+<h1 align="center">Desktop Operating System COMP 3105</h1>
 
 <p align="center">
 <img src="src/Comp3105.png" width="500">
