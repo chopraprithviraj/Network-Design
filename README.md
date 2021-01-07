@@ -1,6 +1,8 @@
 <h1 align="center">Network Design</h1>
 
+<p align="center">
 <img src="src/gbc_logo.png" width="250">
+</p>
 
 <h4>Winter 2020</h4>
 
