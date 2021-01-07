@@ -1,4 +1,4 @@
-<h1 align="center">Network Design</h1>
+## Network Design
 
 <p align="center">
 <img src="src/gbc_logo.png" width="250">
